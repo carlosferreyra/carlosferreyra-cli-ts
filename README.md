@@ -26,7 +26,7 @@ Built with TypeScript and Bun for optimal performance and developer experience.
 Run the business card directly in your terminal:
 
 ```bash
-npx carlosferreyra-cli
+npx carlosferreyra
 ```
 
 No installation required! Just run the command and interact with the card.
@@ -88,7 +88,7 @@ To customize this business card for yourself:
 
 ## Project Structure
 
-```
+```bash
 src/
 ├── index.ts      # Main application entry point
 ├── config.ts     # Personal information and configuration
